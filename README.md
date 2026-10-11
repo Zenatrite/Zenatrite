@@ -16,7 +16,7 @@
 
 ---
 
-### 🎮 A little about me
+### 🎮 A little about me...
 
 I'm Kalash, aka **Zenatrite**. I'm a diploma student who likes anime, games, Linux, and making random ideas actually work.
 
