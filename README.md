@@ -1,11 +1,9 @@
 
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:111111,100:F5D90A&text=ZENATRITE&fontColor=F5D90A&fontSize=48&fontAlignY=40&animation=fadeIn" width="100%" alt="Zenatrite banner"/>
 <div align="center"><a href="https://github.com/Zenatrite"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=32&duration=2800&pause=1000&color=F5D90A&center=true&vCenter=true&repeat=true&width=900&height=50&linespacing=0&lines=HEY%2C+I'M+KALASH+%7C+AKA+ZENATRITE+%F0%9F%91%8B;DIPLOMA+STUDENT+%7C+CREATIVE+TECH+ENTHUSIAST;I+MAKE+GAMES%2C+3D+WORLDS+%26+RANDOM+IDEAS;GODOT+%2B+UNITY+%7C+GAME+DEV+IN+PROGRESS+%F0%9F%8E%AE;BLENDER+RENDERS+%7C+TURNING+IMAGINATION+INTO+ART;BUILDING+GESTURE+X+%E2%80%94+GAMES+WITHOUT+A+CONTROLLER;LEARNING+DSA%2C+SQL+%26+DATA+ENGINEERING;JLPT+N5+CLEARED+%7C+N4+IS+THE+NEXT+QUEST+%F0%9F%87%AF%F0%9F%87%B5;%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%82%92%E5%8B%89%E5%BC%B7%E4%B8%AD+%F0%9F%8C%B8;ONE+PROJECT%2C+ONE+LESSON%2C+ONE+LEVEL+UP+%E2%9A%A1" alt="Kalash Zenatrite animated introduction"/></a></div>
-
+  
 ### やあ！ I'm Kalash 👋
-
 **I make things with code, games, and 3D art.**
 
 [GitHub](https://github.com/Zenatrite) · [itch.io](https://itch.io/profile/zenatrite) · [YouTube](https://www.youtube.com/@zenatrite)
